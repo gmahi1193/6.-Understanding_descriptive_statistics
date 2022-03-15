@@ -1,0 +1,1 @@
+This project give insights about statistics.
